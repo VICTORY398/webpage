@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NASA Space Apps Challenge 2024 - ISS 25th Anniversary
 
 A cinematic React.js website celebrating the International Space Station's 25th Anniversary, featuring an interactive space adventure that educates users about ISS benefits for Earth.
@@ -234,3 +235,6 @@ Created for NASA Space Apps Challenge 2024 - ISS 25th Anniversary
 **Ready to launch your space adventure! 🚀**
 
 For questions or support, please refer to the code comments or create an issue in the repository.
+=======
+# webpage
+>>>>>>> 5aa5d4c000a24ee905563f39582faabd3a38b774
