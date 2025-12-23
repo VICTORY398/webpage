@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# NASA Space Apps Challenge 2024 - ISS 25th Anniversary
+# NASA Space Apps Challenge 2025 - ISS 25th Anniversary
 
 A cinematic React.js website celebrating the International Space Station's 25th Anniversary, featuring an interactive space adventure that educates users about ISS benefits for Earth.
 
